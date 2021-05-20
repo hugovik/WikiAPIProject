@@ -1,0 +1,19 @@
+{
+  "name": "wiki-api",
+  "version": "1.0.0",
+  "description": "My first API package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitaliy Pavlyuk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mongoose": "^5.12.3",
+    "npm": "^7.9.0"
+  }
+}
